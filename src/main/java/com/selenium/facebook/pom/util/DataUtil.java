@@ -2,7 +2,6 @@ package com.selenium.facebook.pom.util;
 
 import java.util.Hashtable;
 
-import org.testng.annotations.DataProvider;
 
 public class DataUtil {
 	String testCaseName="LoginTest";
